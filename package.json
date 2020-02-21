@@ -1,0 +1,23 @@
+{
+  "name": "webpacknative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niscolinx/webpack.git"
+  },
+  "author": "Igboanugwo Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niscolinx/webpack/issues"
+  },
+  "homepage": "https://github.com/Niscolinx/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
